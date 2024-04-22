@@ -5,3 +5,4 @@ class Mahasiswa {
     public: //Akses modifer
     string nama;
     int umur;
+    string jurusan;
